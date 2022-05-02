@@ -1,9 +1,10 @@
-#Youtube Uploader for Ruby
+**Youtube Uploader for Ruby**
 
 I couldn't find a good example for uploading videos to youtube using google's api, so I created my own. 
 
-##Quickstart
+**Quickstart**
 install the google api client
+
 `gem install google-api-client`
 
 download your client secret from gcp, then put it into client_secret.json
